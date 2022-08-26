@@ -1,0 +1,64 @@
+.navbar-toggler{
+    border: none;
+}
+.nav-item a{
+    font-weight: 500;
+}
+.btn{
+    background-color:  #FF6464;
+    border-radius: 2px;
+    color: white;
+    font-weight: 500;
+}
+.container{
+    padding-top: 40px;
+    padding-left: 20%;
+}
+.fw-bold{
+    font-size: 34px;
+    padding-bottom: 20px;
+}
+.sub-title{
+    padding-left: 16px;
+    font-size: 20px;
+
+}
+p{
+    position: center;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    width:50%;
+}
+
+h3{
+    padding-top: 100px;
+    background-color:rgb(255,100,100);
+    color: #ffffff;
+    border-radius: 15px;
+    width: 60px;
+    height: 20px;
+    font-size: 15px;
+    padding: 0 10px;
+}
+h1{
+padding-top: 50px;
+}
+h2{
+padding-top: 5px;
+
+}
+h3{
+    padding-left:15px ;
+
+}
+footer .d-flex{
+    grid-gap: 40px;
+   padding-left: 169px;
+}
+.my-4{
+    padding-left: 169px;
+}
+
+
